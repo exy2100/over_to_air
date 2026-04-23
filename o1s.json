@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1776929973,
+      "filename": "lineage-23.2-20260423-UNOFFICIAL-o1s-signed.zip",
+      "id": "5eb63bbbe01eeed093cb22bb8f5acdc6",
+      "romtype": "unofficial",
+      "size": 1437470800,
+      "url": "https://github.com/ata-kaner/los-ota/releases/download/2024-05-27/lineage-21.0-20240527-UNOFFICIAL-r8q-signed.zip",
+      "version": "23.2"
+    }
+  ]
+}
