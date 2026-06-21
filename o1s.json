@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1776929973,
-      "filename": "lineage-23.2-20260423-UNOFFICIAL-o1s-signed.zip",
-      "id": "5eb63bbbe01eeed093cb22bb8f5acdc6",
+      "datetime": 1782022303,
+      "filename": "lineage-23.2-20260621-UNOFFICIAL-o1s.zip",
+      "id": "8207087746cc17b4b326de137201329a",
       "romtype": "unofficial",
-      "size": 1437470800,
-      "url": "https://github.com/ata-kaner/los-ota/releases/download/2024-05-27/lineage-21.0-20240527-UNOFFICIAL-r8q-signed.zip",
+      "size": 1270212550,
+      "url": "https://github.com/exy2100/over_to_air/releases/download/2026-06-21/lineage-23.2-20260621-UNOFFICIAL-o1s.zip",
       "version": "23.2"
     }
   ]
